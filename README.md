@@ -1,12 +1,10 @@
 ## Steph Crampin
 
-A sentence about who and what you are.
+**Work in progress** (both CV and me)
 
-Maths and Philosophy graduate
-Runner
-Charity person
-
-Then a sentence about what you've achieved.
+- Maths and Philosophy graduate
+- Runner
+- Charity person
 
 Independent tech projects at work, and website for bakery startup
 Key player in exciting and fast-growing stage of Giving What We Can: global community-based charit
