@@ -25,14 +25,11 @@ Whilst working as a technology consultant, I took on an independent project for 
 
 #### Strategy
 
-I have consistently held positions that have allowed me to create both long and mid-term strategic plans. In my position as lead tester for an LNG trader, I planned and delivered a series of trsting cycles for newly developed treasury software over 9 months. In my role as Director of Communications at Giving What We Can, I wrote the comminications strategy for the charity for the period of a year, as well as managing a website redesign that lasted for nine months.
+I have consistently held positions that have allowed me to create both long and mid-term strategic plans. In my position as lead tester for an LNG trader, I planned and delivered a series of testing cycles for newly developed treasury software over 9 months.
 
+In my role as Director of Communications at Giving What We Can, I managed a  managing a website redesign that lasted for nine months. This involved communicating with and coordinating the roles of graphic designers, developers and copywriters, as well as designing the vision and strategy for the website. Once implemented, signup rates to the blog and newsletters increased by 20%.
 
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I wrote the comminications strategy for the charity for yearly periods. This involved developing and delivering on KPI's for the charity's publicity and press. Most notably, the efforts of my team drove an increase in membership of over 150%, from 310 to 800. The monthly average growth was 28 members per month; twice as many as the 14 initially planned.
 
 ## Education
 
@@ -64,5 +61,5 @@ I have consistently held positions that have allowed me to create both long and 
 
 **Sapient Global Markets** January 2015 - February 2017    
 *Associate Technology*  
-**Giving What We Can** August 2013 - December 2014   
+**Giving What We Can** August 2013 - January 2015   
 *Director of Communications*  
