@@ -1,20 +1,33 @@
-## Your Name
+## Steph Crampin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A sentence about who and what you are.
+
+Maths and Philosophy graduate
+Runner
+Charity person
+
+Then a sentence about what you've achieved.
+
+Independent tech projects at work, and website for bakery startup
+Key player in exciting and fast-growing stage of Giving What We Can: global community-based charit
+
+Looking for role as developer in small-to medium sized org in London.
 
 ## Skills
 
-#### This Skill
+#### Versatility
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I take real pride in my ability to turn my hand to a number of diffrerent roles, and I believe that this skill is a manifestation of dedication, attention to detail, and the ability to cultivate an ambitious vision for the project at hand. When managing a project I ensure that if there is a detail missed in any aspect, that I am equipped to put the work in to fix it myself, ensuring output that is consistently high in quality and complete.
 
-- Experience
-- Achievements
-- Evidence
+When developing the website for Friandiz and KO, I was undeterred by a lack of immediate resources, and ensured that the initial draft of the site had copy that was high quality and a design that was professional and brand-appropriate. This led to a prompt launch, and usage/revenue of xyz
 
-#### Another Skill
+Whilst working as a technology consultant, I took on an independent project for a department of the company consisting of 500 people. I developed an excel macro that allowed managers to send congratulatory emails automatically to members of their team whose anniversaries were coming up. This was an important breakthrough in their community management, and achieved company-wide recognition.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Strategy
+
+I have consistently held positions that have allowed me to create both long and mid-term strategic plans. In my position as lead tester for an LNG trader, I planned and delivered a series of trsting cycles for newly developed treasury software over 9 months. In my role as Director of Communications at Giving What We Can, I wrote the comminications strategy for the charity for the period of a year, as well as managing a website redesign that lasted for nine months.
+
+
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -23,7 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy: March 2017 - June 2017
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +45,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Chartered Institute of Marketing: October 2013 - March 2015
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Professional Diploma in Marketing
 
-#### Any other qualifications
+#### Oxford University - St Hugh's College: October 2009 - June 2013
+
+- Mathematics and Philosophy [BA and Masters]
+- First Class [BA and Masters]
+- Winner of 2013 Undergraduate Essay Prize for the British Society of the History of Mathematics
+- Top of year in Philosophy of Mathematics
+
+#### Hinchingbrooke School: September 2002 - June 2009
+
+- Four A* A levels in Mathematics, Further Mathematics, English Literature and Philosophy
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Sapient Global Markets** January 2015 - February 2017    
+*Associate Technology*  
+**Giving What We Can** August 2013 - December 2014   
+*Director of Communications*  
