@@ -2,14 +2,11 @@
 
 **Work in progress** (both CV and me)
 
-- Maths and Philosophy graduate
-- Runner
-- Charity person
+I am a technology consultant turned programmer at Makers Academy. After studying Maths and Philosophy I led a website redesign of a global charity, and subsequrntly planned and delivered tech projects in the treasury departments of major commodity traders. 
 
-Independent tech projects at work, and website for bakery startup
-Key player in exciting and fast-growing stage of Giving What We Can: global community-based charit
+I have taken a leading role in the development of a website for a fast-growing bakery startup, and enjoy taking on new tech projects that will stretch me and help other people. When I worked as head of publicity and press, the website redesign I led involved the unification of many disparate teams and skills, and ultimately led to a growth rate of 20% in online signups.
 
-Looking for role as developer in small-to medium sized org in London.
+ I am looking for role as developer in small-to medium sized org in London.
 
 ## Skills
 
@@ -27,7 +24,7 @@ I have consistently held positions that have allowed me to create both long and 
 
 In my role as Director of Communications at Giving What We Can, I managed a  managing a website redesign that lasted for nine months. This involved communicating with and coordinating the roles of graphic designers, developers and copywriters, as well as designing the vision and strategy for the website. Once implemented, signup rates to the blog and newsletters increased by 20%.
 
-I wrote the comminications strategy for the charity for yearly periods. This involved developing and delivering on KPI's for the charity's publicity and press. Most notably, the efforts of my team drove an increase in membership of over 150%, from 310 to 800. The monthly average growth was 28 members per month; twice as many as the 14 initially planned.
+I wrote the comminications strategy for the charity for yearly periods. This involved developing and delivering on KPI's for the charity's publicity and press. Most notably, the efforts of my team drove an increase in membership of over 150%, [from 310 to 800](http://www.givingwhatwecan.org/dashboard). The monthly average growth was 28 members per month; twice as many as the 14 initially planned.
 
 ## Education
 
