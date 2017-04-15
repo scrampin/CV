@@ -5,7 +5,7 @@
 
 I am a Full Stack Junior Developer, with a fondness for the methodology and structure inherent in implementing the principles of Object Oriented Design. I love the combination of creativity and analytical thinking brought by these techniques, and strive to write code that is readable, clean and elegant.
 
-After studying Maths and Philosophy at Oxford I led a website redesign of a fast-growing charitable startup over nine months. Subsequently I worked for two years as a technology consultant, planning and delivering Quality Assurance in the treasury departments of major commodity traders. I moved fully into the tech spere when completing Makers Academy; a 16 week software development bootcamp.
+After studying Maths and Philosophy at Oxford I led a website redesign of a fast-growing charitable startup over nine months. Subsequently I worked for two years as a technology consultant, planning and delivering Quality Assurance in the treasury departments of major commodity traders. I moved fully into the tech spere when completing [Makers Academy](http://www.makersacademy.com/); a 16 week software development bootcamp.
 
 I am keen to adopt a role where I am aware of and involved in the strategy of my current project. Three years of working closely with the deployment of new technologies has taught me that the quality and integrity of project plans often hinges on an intimate connection between technologists and strategists. I look forward to playing my part in both the direction and the implementation of my endeavours.
 
