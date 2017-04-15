@@ -16,11 +16,11 @@ I am keen to adopt a role where I am aware of and involved in the strategy of my
 
 #### Excellent communicator
 
-I have been interviewd multiple times for the BBC and the New York Times as part of my work as a charity's Comminications Director. When working as a technology consultant, I frequently presented my work to clients. This was to ensure support of the methods I used, and confidence in my results. I also managed aspects of internal communication, such as editing and distributing the CSR newsletter, and running the presentation of the company’s core value awards. Since starting Makers, I have been [running a blog](https://www.steph-island.co.uk/) to document my experience.
+I have been interviewd multiple times for the BBC and the New York Times as part of my work as a charity's Comminications Director. When working as a technology consultant, I frequently presented my work to clients. This was to ensure support of the methods I used, and confidence in my results. I also managed aspects of internal communication, such as editing and distributing the CSR newsletter, and running the presentation of the company’s core value awards. Since starting Makers, I have been [running a blog](https://www.steph-island.co.uk/) to diarise my experience.
 
 #### Fast learner
 
-Completing a course at Makers Academy has required learning skills such as Postgresql in one week, and Javascript in three days, with the intention of using these technologies to build fully functioning apps in a number of weeks. In order to solidify and supplement my understanding, I have been running regular sessions to discuss key sections of textbooks on Object Oriented Design and Clean Code with fellow students. I have had the time of my life taking in so much knowledge so quickly, and I can't wait to continue this journey as a developer.
+Completing a course at Makers Academy has required learning skills such as PostgreSQL in one week, and Javascript in three days, with the intention of using these technologies to build fully functioning apps in a number of weeks. In order to solidify and supplement my understanding, I have been running regular sessions to discuss key sections of textbooks on Object Oriented Design and Clean Code with fellow students. I have had the time of my life taking in so much knowledge so quickly, and I can't wait to continue this journey as a developer.
 
 #### Motivated problem solver
 
