@@ -1,41 +1,63 @@
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/stephanie-crampin/) | [Blog](https://www.steph-island.co.uk/)
+
 ## Steph Crampin
 
-**Work in progress** (both CV and me)
+I am a Full Stack Junior Developer, looking for a role where I can further develop my programming skill-set after completing Makers Academy; a 16 week software development bootcamp.
 
-I am a technology consultant turned programmer at Makers Academy. After studying Maths and Philosophy I led a website redesign of a global charity, and subsequrntly planned and delivered tech projects in the treasury departments of major commodity traders. 
+After studying Maths and Philosophy at Oxford I led a website redesign of a fast-growing charitable startup over nine months. Subsequently I worked for two years as a technology consultant, planning and delivering Quality Assurance in the treasury departments of major commodity traders.
 
-I have taken a leading role in the development of a website for a fast-growing bakery startup, and enjoy taking on new tech projects that will stretch me and help other people. When I worked as head of publicity and press, the website redesign I led involved the unification of many disparate teams and skills, and ultimately led to a growth rate of 20% in online signups.
+I am keen to adopt a role where I am aware of and involved in the strategy of the project or department I work in. Three years of working with the deployment of new technologies has taught me that the quality and integrity of project plans often hinges on an intimate connection between technologists and strategists. 
 
- I am looking for role as developer in small-to medium sized org in London.
+**Tech skills**: Ruby, Sinatra, HTML, CSS, JavaScript, jQuery, PostgreSQL, Drupal, OpenLink, Rspec, Jasmine
 
 ## Skills
 
-#### Versatility
+#### Fast learner
 
-I take real pride in my ability to turn my hand to a number of diffrerent roles, and I believe that this skill is a manifestation of dedication, attention to detail, and the ability to cultivate an ambitious vision for the project at hand. When managing a project I ensure that if there is a detail missed in any aspect, that I am equipped to put the work in to fix it myself, ensuring output that is consistently high in quality and complete.
+Completing a course at Makers Academy has required learning Postgresql in one week, and Javascript in three days, with the intention of using these technologies to build fully functioning apps in a number of weeks. In order to solidify and supplement my understanding, I have been running regular sessions to discuss key sections of textbooks on Object Oriented Design and Clean Code with fellow students.
 
-When developing the website for Friandiz and KO, I was undeterred by a lack of immediate resources, and ensured that the initial draft of the site had copy that was high quality and a design that was professional and brand-appropriate. This led to a prompt launch, and usage/revenue of xyz
+#### Excellent communicator
 
-Whilst working as a technology consultant, I took on an independent project for a department of the company consisting of 500 people. I developed an excel macro that allowed managers to send congratulatory emails automatically to members of their team whose anniversaries were coming up. This was an important breakthrough in their community management, and achieved company-wide recognition.
+When working as a technology consultant, I frequently presented my work to clients. This was to ensure support of the methods I used, and confidence in my results. I also managed aspects of internal communication, such as editing and distributing the CSR newsletter, and running the selection and distribution of the company’s core value awards. Since starting Makers, I have been [running a blog](https://www.steph-island.co.uk/) to document my experience.
 
-#### Strategy
+#### Motivated problem solver
 
-I have consistently held positions that have allowed me to create both long and mid-term strategic plans. In my position as lead tester for an LNG trader, I planned and delivered a series of testing cycles for newly developed treasury software over 9 months.
+Whilst working at Sapient Global Markets, I took on an independent tech project for a small and recently acquired department of the company which had not yet fully integrated. I developed a VBA-based excel macro that allowed managers to send congratulatory emails automatically to members of their team whose anniversaries were coming up. This was an important breakthrough in their community management, and achieved company-wide recognition.
 
-In my role as Director of Communications at Giving What We Can, I managed a  managing a website redesign that lasted for nine months. This involved communicating with and coordinating the roles of graphic designers, developers and copywriters, as well as designing the vision and strategy for the website. Once implemented, signup rates to the blog and newsletters increased by 20%.
+#### Strategic planner
 
-I wrote the comminications strategy for the charity for yearly periods. This involved developing and delivering on KPI's for the charity's publicity and press. Most notably, the efforts of my team drove an increase in membership of over 150%, [from 310 to 800](http://www.givingwhatwecan.org/dashboard). The monthly average growth was 28 members per month; twice as many as the 14 initially planned.
+As Director of Communications at Giving What We Can, I managed a website redesign, which involved coordinating the roles of graphic designers, developers and copywriters, as well as designing the vision and goal for the website. I wrote the communications strategy for the charity for yearly periods, which involved developing and delivering on KPI's for publicity and press. Over the course of my time there, this helped to drive an increase in community membership of [over 150%](http://www.givingwhatwecan.org/dashboard).
+
+#### Logical thinker
+
+One of the key strengths I have drawn on as part of the programming bootcamp is my abiltity to analyse problems, and construct a logical solution. I have a longstanding history of excelling at logic and problem solving, spanning back to my degree, where I consistently achieved first class results in pure mathematics. My appreciation for programming and structuring software has been fostered and strengthened by my love of analysing and solvig problems.
+
+## Experience
+
+**Sapient Global Markets** January 2015 - February 2017    
+*Associate Technology* 
+- 18 months' experience planning and delivering quality assurance, working with OpenLink
+- Delivered frequent presentations on the progress of my projects to both managers and clients
+- Edited CSR newsletter, ran core value award ceremony, Delivered VBA-based solution to generate anniversary emails
+
+**Giving What We Can** August 2013 - January 2015   
+*Director of Communications*
+- Head of publicity and press for fast growing charitable startup
+- Managed resesign of website over 9 months
+- Supervised the work of over 40 interns over the course of my employment
 
 ## Education
 
 #### Makers Academy: March 2017 - June 2017
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A 16 week programming bootcamp, focussing on:
+
+- Object Oriented Design
+- Test Driven Development
+- Pair Programming
+- Agile methodologies
+- XP values
+
 
 #### Chartered Institute of Marketing: October 2013 - March 2015
 
@@ -52,9 +74,8 @@ I wrote the comminications strategy for the charity for yearly periods. This inv
 
 - Four A* A levels in Mathematics, Further Mathematics, English Literature and Philosophy
 
-## Experience
+## Interests
 
-**Sapient Global Markets** January 2015 - February 2017    
-*Associate Technology*  
-**Giving What We Can** August 2013 - January 2015   
-*Director of Communications*  
+- **Running**: My half marathon personal best is 87.11, and I am keen to train for a marathon.
+- **Knitting**: I find knitting very cathartic, and I particularly like making toys for young children.
+- **Dancing**: Ceilidh dancing is a fantastic way to unwind after a day of coding!
