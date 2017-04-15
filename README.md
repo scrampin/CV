@@ -1,6 +1,5 @@
 [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/stephanie-crampin-37791653/) | [Blog: steph-island.co.uk](https://www.steph-island.co.uk/)
 
-***
 
 ## Steph Crampin
 
@@ -12,7 +11,6 @@ I am keen to adopt a role where I am aware of and involved in the strategy of my
 
 **Tech skills**: Ruby, Sinatra, HTML, CSS, JavaScript, jQuery, PostgreSQL, Drupal, OpenLink, Rspec, Jasmine
 
-***
 
 ## Skills
 
@@ -36,7 +34,6 @@ As Director of Communications at Giving What We Can, I managed a website redesig
 
 One of the key strengths I have drawn on as part of completing Makers Academy is my abiltity to analyse problems, and construct a logical solution. I have a longstanding history of excelling at logic and problem solving, spanning back to my degree, where I consistently achieved first class results in pure mathematics. My appreciation for programming and structuring software has been fostered and strengthened by my love of analysing and solving problems.
 
-***
 
 ## Experience
 
@@ -57,7 +54,6 @@ One of the key strengths I have drawn on as part of completing Makers Academy is
 - Managed resesign of website over 9 months
 - Supervised the work of over 40 interns over the course of my employment
 
-***
 
 ## Education
 
@@ -87,7 +83,6 @@ A 16 week programming bootcamp, focussing on:
 
 - Four A* A levels in Mathematics, Further Mathematics, English Literature and Philosophy
 
-***
 
 ## Interests
 
