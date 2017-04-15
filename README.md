@@ -37,18 +37,18 @@ One of the key strengths I have drawn on as part of completing Makers Academy is
 
 ## Experience
 
-**[Steph Island](https://www.steph-island.co.uk/)** March 2016 - Present
+#### [Steph Island](https://www.steph-island.co.uk/): March 2016 - Present
 *Blog founder and writer*
 - Engaging in regular reflections on the journey to becoming a software developer
 - Topics include diarising the experience at Makers Academy, musings on learning through doing and pair programming, and discussing important aspects of  personal wellbeing
 
-**Sapient Global Markets** January 2015 - February 2017    
+#### Sapient Global Markets: January 2015 - February 2017    
 *Associate Technology* 
 - 18 months' experience planning and delivering quality assurance, working with OpenLink
 - Delivered frequent presentations on the progress of my projects to both managers and clients
 - Edited CSR newsletter, ran core value award ceremony, Delivered VBA-based solution to generate anniversary emails
 
-**Giving What We Can** August 2013 - January 2015   
+#### Giving What We Can: August 2013 - January 2015   
 *Director of Communications*
 - Head of publicity and press for fast growing charitable startup
 - Managed resesign of website over 9 months
