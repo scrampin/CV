@@ -32,7 +32,7 @@ As Director of Communications at Giving What We Can, I managed a website redesig
 
 #### Logical thinker
 
-One of the key strengths I have drawn on as part of completing Makers Academy is my abiltity to analyse problems, and construct a logical solution. I have a longstanding history of excelling at logic and problem solving, spanning back to my degree, where I consistently achieved first class results in pure mathematics. My appreciation for programming and structuring software has been fostered and strengthened by my love of analysing and solving problems.
+One of the key strengths I have drawn on as part of completing Makers Academy is my abiltity to analyse problems, and construct logical solutions. I have a longstanding history of excelling at logic and problem solving, spanning back to my degree, where I consistently achieved first class results in pure mathematics. My appreciation for programming and structuring software has been fostered and strengthened by my love of analysing and solving problems.
 
 
 ## Experience
@@ -44,8 +44,8 @@ One of the key strengths I have drawn on as part of completing Makers Academy is
 
 #### Sapient Global Markets: January 2015 - February 2017    
 *Associate Technology* 
-- 18 months' experience planning and delivering quality assurance, working with OpenLink
-- Delivered frequent presentations on the progress of my projects to both managers and clients
+- 18 months' experience planning and delivering quality assurance solutions, working with OpenLink
+- Constructed reports on testing progress, plotting actual against expected results, which I regularly distributed to clients and senior managers
 - Edited CSR newsletter, ran core value award ceremony, Delivered VBA-based solution to generate anniversary emails
 
 #### Giving What We Can: August 2013 - January 2015   
