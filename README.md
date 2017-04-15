@@ -1,4 +1,4 @@
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/stephanie-crampin/) | [Blog](https://www.steph-island.co.uk/)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/stephaniecrampin/) | [Blog](https://www.steph-island.co.uk/)
 
 ## Steph Crampin
 
