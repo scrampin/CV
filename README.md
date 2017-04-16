@@ -1,4 +1,4 @@
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/stephanie-crampin-37791653/) | [Blog: steph-island.co.uk](https://www.steph-island.co.uk/)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/stephanie-crampin-37791653/) | [Blog: stephaniejane.tech](https://www.stephaniejane.tech/)
 
 
 ## Steph Crampin
@@ -16,7 +16,7 @@ I am keen to adopt a role where I am aware of and involved in the strategy of my
 
 #### Excellent communicator
 
-I have been interviewd multiple times for the BBC and the New York Times as part of my work as a charity's Comminications Director. When working as a technology consultant, I frequently presented my work to clients. This was to ensure support of the methods I used, and confidence in my results. I also managed aspects of internal communication, such as editing and distributing the CSR newsletter, and running the presentation of the company’s core value awards. Since starting Makers, I have been [running a blog](https://www.steph-island.co.uk/) to diarise my experience.
+I have been interviewd multiple times for the BBC and the New York Times as part of my work as a charity's Comminications Director. When working as a technology consultant, I frequently presented my work to clients. This was to ensure support of the methods I used, and confidence in my results. I also managed aspects of internal communication, such as editing and distributing the CSR newsletter, and running the presentation of the company’s core value awards. Since starting Makers, I have been [running a blog](https://www.stephaniejane.tech/) to diarise my experience.
 
 #### Fast learner
 
@@ -37,7 +37,7 @@ One of the key strengths I have drawn on as part of completing Makers Academy is
 
 ## Experience
 
-#### [Steph Island](https://www.steph-island.co.uk/): March 2016 - Present
+#### [StephanieJane.tech](https://www.stephaniejane.tech/): March 2016 - Present
 *Blog founder and writer*
 - Engaging in regular reflections on the journey to becoming a software developer
 - Topics include diarising the experience at Makers Academy, musings on learning through doing and pair programming, and discussing important aspects of  personal wellbeing
