@@ -1,4 +1,4 @@
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/stephanie-crampin-37791653/) | [Blog: stephaniejane.tech](https://www.stephaniejane.tech/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/stephanie-crampin-37791653/) | [Blog: stephaniejane.tech](https://www.stephaniejane.tech/)
 
 
 ## Steph Crampin
@@ -11,6 +11,13 @@ I am keen to adopt a role where I am aware of and involved in the strategy of my
 
 **Tech skills**: Ruby, Sinatra, HTML, CSS, JavaScript, jQuery, PostgreSQL, Drupal, OpenLink, Rspec, Jasmine
 
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/lsewilson?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | An AirBnB clone allowing users to list, book and update holiday destinations | Ruby, Sinatra, Datamapper, RSpec/Capybara |
 
 ## Skills
 
