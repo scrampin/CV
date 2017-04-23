@@ -13,7 +13,7 @@ I am keen to adopt a role where I am aware of and involved in the strategy of my
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/lsewilson?tab=repositories).
+For a complete list, see my [GitHub](https://github.com/scrampin).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
