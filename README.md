@@ -18,7 +18,8 @@ For a complete list, see my [GitHub](https://github.com/scrampin).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [MakersBnB](https://github.com/jackbittiner/Makersbnb) | An AirBnB clone allowing users to list, book and update holiday destinations | Ruby, Sinatra, Datamapper, RSpec/Capybara |
-| [Napkin Notes](https://github.com/scrampin/napkin-notes) | A single page application, built and tested using pure Javascript | Javascript, DOM manipulation |
+| [Napkin Notes](https://github.com/scrampin/napkin-notes) | A Single Page Application, with a testing library written in pure Javascript | Javascript, DOM manipulation |
+| [Noughty News](https://github.com/scrampin/noughty-news) | 'Fake news for millenials', sourcing and summarising articles | Javascript, AJAX |
 
 ## Skills
 
